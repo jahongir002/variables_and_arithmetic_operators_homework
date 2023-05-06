@@ -4,3 +4,7 @@ num_one = 5
 num_two = 4
 # Create a variable 'variable_total' and assign it the sum of  'num_one' and 'num_two'.
 variable_total = num_one + num_two
+a = 5
+b = 4
+c = a + b
+print (c)
